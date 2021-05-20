@@ -1,8 +1,8 @@
-baseurl: https://elastic-goldstine-7d2eaf.netlify.app/
+baseurl: https://gracious-curran-ee29fc.netlify.app/
 languageCode: en-us
 title: Ankit's Blog
 theme: hugo-lithium
-googleAnalytics: 'G-BXE93CSP3H'
+googleAnalytics: 'G-59DDLZ8LQE'
 disqusShortname: ''
 ignoreFiles:
   - \.Rmd$
